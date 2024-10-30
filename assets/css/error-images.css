@@ -1,0 +1,109 @@
+.wp-admin {
+  /* Track */
+  /* Handle */
+  /* Handle on hover */
+}
+.wp-admin ::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+.wp-admin ::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.wp-admin ::-webkit-scrollbar-thumb {
+  background: #cecece;
+  border-radius: 20px;
+}
+.wp-admin ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.tbds-button-all-container .button {
+  font-size: 12px;
+}
+
+.tbds-actions-container .button.tbds-action-download,
+.tbds-actions-container .button.tbds-action-delete {
+  position: relative;
+  font-size: 12px;
+}
+
+.tbds-actions-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.tbds-button-all-container {
+  float: left;
+  text-align: center;
+}
+
+form p.search-box select.tbds-search-product-id-ajax + .select2-container {
+  width: auto !important;
+}
+
+form p.search-box select + .select2-container {
+  min-width: unset;
+  /*max-width: calc(100% - 65px);*/
+  max-width: 100%;
+}
+
+form p.search-box select {
+  max-width: calc(100% - 65px);
+}
+
+form p.search-box {
+  margin: 0;
+  position: relative;
+  padding: 0 10px;
+  max-width: calc(100% - 480px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tbds-download-image-error {
+  position: absolute;
+  left: -20px;
+  color: black;
+  transform: translateY(-50%);
+  top: 50%;
+}
+
+.tbds-delete-image-error {
+  position: absolute;
+  right: -20px;
+  color: #db2828;
+  transform: translateY(-50%);
+  top: 50%;
+}
+
+.vi-ui.celled.table tr td:first-child {
+  text-align: center;
+}
+
+.select2-container--default .select2-results > .select2-results__options {
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 782px) {
+  form p.search-box select {
+    max-width: 100%;
+  }
+
+  form p.search-box {
+    float: left;
+    text-align: center;
+    max-width: 100%;
+  }
+
+  .tablenav.top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/*# sourceMappingURL=error-images.css.map */

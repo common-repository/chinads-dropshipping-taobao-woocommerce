@@ -1,0 +1,1 @@
+jQuery(document).ready(function(b){"use strict";let a=b(".tbds-auth-form");a.length>0&&a.submit()})

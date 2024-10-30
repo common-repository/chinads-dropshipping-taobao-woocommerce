@@ -1,0 +1,1898 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ChinaDS - Taobao Dropshipping for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-16 11:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: chinads"
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:254
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:182
+msgid " of "
+msgstr ""
+
+#. %s App name.
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:27
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:231
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:29
+msgid "(Set -1 to not use sale price)"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:219
+#, php-format
+msgid "=> set \"Import products currency exchange rate\" %s"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:17
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:325
+msgid "Action"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:65
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:228
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:25
+msgid "Actions"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:176
+msgid "Activate"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:127
+msgid "Activate now"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:609
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:81
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:118
+msgid "Add"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:192
+msgid "Add a new range"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:80
+msgid "Add selected and keep existing categories"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:117
+msgid "Add selected and keep existing tags"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:549
+msgid "Add this note to Taobao order when fulfilling"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:506
+msgid "Add video to description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:48
+msgid "All cart features you need in one simple plugin"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:40
+msgid "All failed images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:63
+msgid "All imported products"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:28
+msgid "All products"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:78
+msgid ""
+"Allows you to bulk add tracking code to WooCommerce orders. Then the plugin "
+"will send tracking email with tracking URLs to customers. The plugin also "
+"helps you to add tracking code and carriers name to your PayPal transactions."
+" This option will save you tons of time and avoid mistake when adding "
+"tracking code to PayPal."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:586
+msgid "Also delete product from your WooCommerce store."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:29
+msgid "Amount"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:72
+msgid ""
+"An ultimate review plugin for WooCommerce which helps you send review "
+"reminder emails, allows customers to post reviews include product pictures "
+"and send thank you emails with WooCommerce coupons to customers."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/header.php:16
+msgid "Application authentication request"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:73
+msgid "Approve"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:153
+msgid "Are you sure you want to delete all item(s) on this page?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:152
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:132
+msgid "Attribute name can not be empty"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:133
+msgid "Attribute value can not be empty or duplicated"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:121
+msgid "Attributes"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/auth.php:23
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/auth.php:24
+msgid "Auth"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/auth.php:35
+msgid "Authorize ChinaDS - Taobao Dropshipping for WooCommerce Extension"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:346
+msgid "Auto generate unique sku if exists"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:516
+msgid "Automatically remove attribute"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:408
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:466
+msgid "Back"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:537
+msgid "Billing area meta field"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:527
+msgid "Billing district meta field"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:12
+msgid "Bulk Action"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:57
+msgid "Bulk set product categories"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:94
+msgid "Bulk set product tags"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:503
+msgid ""
+"By default, product videos are displayed in their original width. Enable "
+"this option to make product videos have the same width as the tab."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1560
+msgid ""
+"By selecting a replacement, a new variation will be created by modifying the "
+"respective overridden variation. Overridden variations with no replacement "
+"selected will be deleted"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:572
+msgid "Can not create post"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:643
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:655
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:678
+msgid "Can not delete product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:250
+msgid "Can not detect file type"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:713
+msgid "Can not override itself"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:427
+msgid "Can not remove image from list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:614
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:41
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:88
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:125
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:70
+msgid "Cancel"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:364
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:198
+msgid "Catalog visibility"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:217
+msgid "Categories"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:608
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:142
+msgid "Check"
+msgstr ""
+
+#. Name of the plugin
+msgid "ChinaDS - Taobao Dropshipping for WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:73
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:110
+msgid "Clear selected"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/taobao-products-table.php:315
+msgid "Content, title, and excerpt are empty."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:284
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:423
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:458
+msgid "Cost"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/taobao-products-table.php:450
+msgid "Could not insert post into the database."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/taobao-products-table.php:437
+msgid "Could not update post in the database."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:250
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:178
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:94
+msgid "Current Page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:180
+msgid "Currently active"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:54
+msgid ""
+"Customize WooCommerce emails to make them more beautiful and professional "
+"after only several mouse clicks."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:81
+msgid "Data storage for Taobao products"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:39
+msgid "Date: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:362
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:161
+msgid "Default"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:403
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:191
+msgid "Default categories"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:381
+msgid "Default product description when adding product to import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:411
+msgid "Default product tags"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:391
+msgid "Default select product images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:419
+msgid "Default shipping class"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:387
+msgid "Default variation"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:195
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:349
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:366
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:386
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:396
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:403
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:521
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:611
+msgid "Delete"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:219
+msgid "Delete All"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:345
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:362
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:382
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:392
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:517
+msgid "Delete this product permanently"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:569
+msgid "Delete: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:109
+msgid "Deleting old data in background"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:66
+msgid "Deletion progress has started running in the background."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:75
+msgid "Deny"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:99
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:154
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:144
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:113
+msgid "Description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:397
+msgid "Disable background process"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:54
+msgid "Dismiss"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:493
+msgid "Display product video on a separate tab in the frontend"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2067
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2079
+msgid "Do not replace"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:661
+msgid "Do not show these options when overriding product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:183
+msgid "Draft"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:217
+#, php-format
+msgid ""
+"E.g: Your Woocommerce store currency is %1$s, exchange rate is: 1 CNY = %2$s "
+"%1$s"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:26
+msgid "Edit"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:201
+msgid "Edit product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:222
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:39
+msgid "Empty List"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:187
+msgid "Enable"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:435
+msgid ""
+"Enable manage stock and import product inventory. If this option is disabled,"
+" products stock status will be set \"Instock\" and product inventory will "
+"not be imported"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:429
+msgid "Enable to make variations of imported products visible on product page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1401
+msgid "Error"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/background-process/wp-background-process.php:420
+msgid "Every %d Minutes"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:470
+msgid "Exchange rate"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:460
+msgid "Exchange rate API"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:611
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:152
+msgid "Extension"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:145
+msgid "Extension configuration"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:50
+msgid "External ID"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:58
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:59
+msgid "Failed Images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:247
+msgid "File type is not permitted"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:296
+msgid "Filter by product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:4
+msgid "Find in unfulfilled orders"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:393
+msgid ""
+"First image will be selected as product image and other images(except images "
+"from product description) are selected in gallery when adding product to "
+"import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:138
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:64
+msgid "First Page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:100
+msgid ""
+"First-purchase discount may apply to this product, please check its price "
+"carefully or import with consideration."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:17
+msgid ""
+"For each price, first matched rule(from top to bottom) will be applied. If "
+"no rules match, the default will be used."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1570
+msgid "Found in unfulfilled orders"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:177
+msgid "Fulfill"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:101
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:159
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:136
+msgid "Gallery"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:170
+msgid "General"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:462
+msgid "Get exchange rate from this selected API"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:354
+msgid ""
+"Global attributes will be used instead of custom attributes. More detail "
+"about"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:749
+msgid "Go to Taobao"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:66
+msgid ""
+"Helps you to recovery unfinished order in your store. When a customer adds a "
+"product to cart but does not complete check out. After a scheduled time, the "
+"cart will be marked as “abandoned”. The plugin will start to send cart "
+"recovery email or facebook message to the customer, remind him/her to "
+"complete the order."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:175
+msgid "Hidden"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:659
+msgid "Hide options"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:153
+msgid "HTTPS for WordPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://villatheme.com/extensions/chinads-taobao-dropshipping-for-"
+"woocommerce/"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:360
+msgid ""
+"If a product has only 1 variation or you select only 1 variation to import, "
+"that product will be imported as simple product. Variation sku and "
+"attributes will not be used."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:588
+msgid "If a product is no longer available"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:583
+msgid "If a product is out of stock"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:593
+msgid "If a variation is no longer available"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:131
+msgid ""
+"If product is split successfully, page will be reloaded automatically to "
+"load new products."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:539
+msgid ""
+"If you customize checkout fields to add the billing area field, please enter "
+"the order meta field which is used to store the billing area here."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:529
+msgid ""
+"If you customize checkout fields to add the billing district field, please "
+"enter the order meta field which is used to store the billing district here."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:544
+msgid ""
+"If you customize checkout fields to add the shipping area field, please "
+"enter the order meta field which is used to store the shipping area here."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:534
+msgid ""
+"If you customize checkout fields to add the shipping district field, please "
+"enter the order meta field which is used to store the shipping district here."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:86
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:146
+msgid ""
+"If your customers buy this product, this selected taobao variation will be "
+"used when fulfilling taobao orders"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:63
+msgid "Image url"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:189
+msgid "Import"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:74
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:63
+msgid "Import & Map"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:23
+msgid "Import & map existing Woo product: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:62
+msgid "Import & Override"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:218
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:34
+msgid "Import All"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:33
+msgid "Import all products on this page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:123
+msgid "Import all products on this page to your WooCommerce store?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:126
+msgid "Import all selected product(s)?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:358
+msgid "Import as simple product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:385
+msgid "Import description images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:36
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:37
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:142
+msgid "Import List"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:421
+msgid "Import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:69
+msgid "Import Now"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:486
+msgid "Import product video"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:212
+msgid "Import products currency exchange rate"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:22
+msgid "Import selected"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:703
+msgid "Import successfully"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:45
+msgid "Import Taobao products"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:68
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:72
+msgid "Import this product to your WooCommerce store"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:47
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:48
+msgid "Imported"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:339
+msgid "Imported products status will be set to this value."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:415
+msgid "Imported products will be added these tags."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:407
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:208
+msgid "Imported products will be added to these categories."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:299
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:366
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:8
+msgid "Increase by Fixed amount(¥)"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:22
+msgid "Increase by fixed value"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:300
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:367
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:9
+msgid "Increase by Percentage(%)"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:25
+msgid "Increase by percentage(%)"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:59
+msgid "Index"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:170
+msgid "Install"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:469
+msgid "Install & Return to Dashboard"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:619
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:163
+msgid "Install and use"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:149
+msgid "Install Chrome Extension"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:120
+msgid "Install now"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:632
+msgid ""
+"Instead of deleting old product to create a new one, it will update the "
+"overridden old product's prices/stock/attributes/variations based on the new "
+"data. This way, data such as reviews, metadata... will not be lost."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1487
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2332
+msgid "Invalid data"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/taobao-products-table.php:357
+msgid "Invalid date."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/taobao-products-table.php:494
+msgid "Invalid post ID."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2378
+msgid "Invalid product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:313
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:440
+msgid "Inventory"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:80
+msgid ""
+"is currently inactive, external images added by this plugin(Post/product "
+"featured image, product gallery images...) will no longer work properly."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:106
+msgid ""
+"is currently inactive, this prevents variable products from displaying "
+"beautifully."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1223
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1242
+msgid "is replaced with product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1227
+msgid "is replaced with variation"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:104
+msgid "is what you need."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:376
+msgid "Item specifics"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:378
+msgid "Item specifics &amp; Product Description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:96
+msgid ""
+"items remaining in the migration process. New Taobao products cannot be "
+"added while the process is ongoing."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:630
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:3
+msgid "Keep Woo product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:219
+msgid "Languague for translate"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:225
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:128
+msgid "Last Page"
+msgstr ""
+
+#. %s display name.
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:64
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:67
+msgid "Logout"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:501
+msgid "Make video full tab width"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:433
+msgid "Manage stock"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:267
+msgid "Map existing Woo product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:106
+msgid "Max can not < min"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:108
+msgid "Max decimal"
+msgid_plural "Max decimals"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:100
+msgid "Maximum {value} digit"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:101
+msgid "Maximum {value} digits"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:102
+msgid "Migrate & use new table"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:50
+msgid "Migrate processing"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:54
+msgid "Migration progress has started running in the background."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:105
+msgid "Min can not > max"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:104
+msgid "Minimum 2 digits"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:366
+msgid "Missing required arguments"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:301
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:368
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:10
+msgid "Multiply with"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:316
+msgid "Name"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:103
+msgid ""
+"Need a variations swatches plugin that works perfectly with ALD - "
+"Dropshipping and Fulfillment for AliExpress and WooCommerce?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:75
+msgid "Need to save your server storage?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:172
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:411
+msgid "Next"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:265
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:205
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:112
+msgid "Next Page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:31
+msgid "No draft product found in Trash."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:30
+msgid "No draft product found."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:546
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:550
+msgid "No product data was sent"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:122
+msgid "No product found."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:244
+msgid "No products found"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:191
+msgid "No shipping class"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:375
+msgid "None"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:408
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:430
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1407
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:754
+msgid "Not found"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:103
+msgid "Numerical digit & X only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:102
+msgid "Numerical digit only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:554
+msgid "Only show action buttons for orders with status among these"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:565
+msgid ""
+"Only sync products with selected statuses. Leave empty to select all "
+"statuses."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:54
+msgctxt "Order status"
+msgid "Override"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:84
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:144
+msgid "Original taobao variation"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1568
+msgid "Overridden items"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:29
+msgid ""
+"Overridden product and all of its data(including variations, reviews, "
+"metadata...) will be deleted. Please make sure you had backed up those kinds "
+"of data before continuing!"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1579
+msgid "Overridden product does not exists"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:531
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:143
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:60
+msgid "Override"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:653
+msgid "Override description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:647
+msgid "Override images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:635
+msgid "Override SKU"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:527
+msgid "Override this product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:641
+msgid "Override title"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:574
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:17
+msgid "Override: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:182
+msgid "Pending"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:145
+msgid "Permalink Settings"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:581
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1420
+msgid "PHP max_input_vars is too low, please increase it in php.ini"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:402
+msgid ""
+"Please disable \"Use external links for images\" and enable \"Import "
+"description images\""
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:49
+msgid ""
+"Please disable \"Use external links for images\" and enable \"Import "
+"description images\" to make Import button available for Description images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:419
+msgid "Please go to"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:602
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:711
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1480
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1909
+msgid "Please select at least 1 variation to import this product."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:119
+msgid "Please select at least 1 variation to import."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:47
+msgid ""
+"Please select default value to fulfill orders after this attribute is removed"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:130
+msgid "Please select less variations to split"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:88
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:151
+msgid "Please select original variation"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:595
+msgid "Please select product to import"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:129
+msgid "Please select variations to split"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:182
+msgid "Plugin configuration"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:43
+msgid "plugin is currently disabled. Please enable it to use this function."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:95
+msgid ""
+"plugin to easily customize your WooCommerce emails and make them more "
+"beautiful and professional."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:143
+msgid "Plugins"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:313
+msgid "Position"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:314
+msgid "Preg_match fails"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:239
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:167
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:85
+msgid "Previous Page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:227
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:24
+msgid "Price range"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1221
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1241
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:171
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:109
+msgid "Product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:354
+msgid "Product attributes"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:377
+msgid "Product Description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:372
+msgid "Product description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:405
+msgid "Product does not exist"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:579
+msgid "Product exists"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:60
+msgid "Product ID"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:577
+msgid "Product is added to import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1455
+msgid "Product is deleted from your store"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:176
+msgid "Product overriding"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:172
+msgid "Product price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:342
+msgid "Product SKU"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:175
+msgid "Product splitting"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:335
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:563
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:187
+msgid "Product status"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:174
+msgid "Product Sync"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:61
+msgid "Product Title"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:167
+msgid "Product title"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:427
+msgid "Product variations is visible on product page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:60
+msgid ""
+"Product Variations Swatches for WooCommerce is a professional plugin that "
+"allows you to show and select attributes for variation products. The plugin "
+"displays variation select options of the products under colors, buttons, "
+"images, variation images, radio so it helps the customers observe the "
+"products they need more visually, save time to find the wanted products than "
+"dropdown type for variations of a variable product."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:173
+msgid "Product Video"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:488
+msgid "Product video will be imported as an external link"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:62
+msgid "Product/Variation IDs"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:103
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:161
+msgid "Product/variation image"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:110
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:181
+msgid "Publish"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:86
+msgid "Quickly and easily edit your products in bulk with"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:77
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:78
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:138
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:429
+msgid "Recommended plugins"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:615
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:159
+msgid "Register account"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:301
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:432
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:234
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:32
+msgid "Regular price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:120
+msgid "Regular price can not be empty."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:66
+msgid "Reimport"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:20
+msgid "Reimport: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:57
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:126
+msgid "Remove"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:222
+msgid "Remove all failed images from database"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:38
+msgid "Remove all products(except overriding products) from Import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2375
+msgid "Remove attribute successfully"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:84
+msgid "Remove existing categories and add selected"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:121
+msgid "Remove existing tags and add selected"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:115
+msgid "Remove old data in posts table"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:23
+msgid "Remove selected"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:125
+msgid "Remove selected product(s) from import list?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:368
+msgid "Remove this attribute"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:57
+msgid "Remove this product from import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:124
+msgid "Remove this product from import list?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1396
+msgid "Removed"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:7
+msgid "Replace description and short description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:655
+msgid ""
+"Replace description and short description of overridden product with new "
+"product's description and short description"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:649
+msgid ""
+"Replace images and gallery of overridden product with new product's images "
+"and gallery"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:6
+msgid "Replace product image and gallery"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:5
+msgid "Replace product title"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:637
+msgid "Replace SKU of overridden product with new product's SKU"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:643
+msgid "Replace title of overridden product with new product's title"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:2070
+msgid "Replace with new product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1571
+msgid "Replacement"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:359
+msgid "Restore"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:355
+msgid "Restore this product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:291
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:426
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:229
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:27
+msgid "Sale price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:121
+msgid "Sale price must be smaller than regular price."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:364
+msgid "Save"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-override-options.php:8
+msgid ""
+"Save my choices and do not show these options again(you can still change "
+"this in <a target=\"_blank\" href=\"admin.php?page=tbds-settings#/override\">"
+"plugin settings</a>)."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:159
+msgid "Save Settings"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:36
+msgid ""
+"Save storage by using external image URLs. This plugin is required if you "
+"want to use external URLs(Taobao cdn image URLs) for product featured image, "
+"gallery images and variation image."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:239
+msgid "Search imported product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:29
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:240
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:145
+msgid "Search product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:142
+msgid "Search product in import list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:174
+msgid "Search results only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:595
+msgid ""
+"Select an action when a variation of an Taobao product is no longer available"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:590
+msgid "Select an action when an Taobao product is no longer available"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:585
+msgid "Select an action when an Taobao product is out-of-stock"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:38
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:85
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:122
+msgid "Set"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:13
+msgid "Set categories"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:414
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:424
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:437
+msgid "Set image for selected variation(s)"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:428
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:434
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:11
+msgid "Set price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:17
+msgid "Set status - Draft"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:16
+msgid "Set status - Pending"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:15
+msgid "Set status - Publish"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:14
+msgid "Set tags"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:302
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:369
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-price-rule-setting.php:11
+msgid "Set to"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-bulk-action-modal.php:20
+msgid "Set to this value"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:21
+msgid "Set visibility - Hidden"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:20
+msgid "Set visibility - Search results only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:18
+msgid "Set visibility - Shop and search results"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-header-section.php:19
+msgid "Set visibility - Shop only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce.php:121
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:69
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:70
+msgid "Settings"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:119
+msgid "Setup Wizard"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:542
+msgid "Shipping area meta field"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:247
+msgid "Shipping class"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:423
+msgid ""
+"Shipping class selected here will also be selected by default in the Import "
+"list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:532
+msgid "Shipping district meta field"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:172
+msgid "Shop and search results"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:173
+msgid "Shop only"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:552
+msgid "Show action"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:491
+msgid "Show product video tab"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:128
+msgid "Skip"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:388
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:452
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:182
+msgid "Sku"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:607
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1494
+msgid "Sku exists."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:319
+msgid "Slug"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/enqueue.php:128
+msgid "Split to 2 products by selected variation(s)?"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:35
+msgid "SSL is required"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:313
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:31
+msgid "Store: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:568
+msgid "Sync attribute"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:570
+msgid "Sync attributes of products by applying attribute mapping rules"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:578
+msgid "Sync price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:580
+msgid ""
+"Sync price of WooCommerce products with Taobao. All rules in Product Price "
+"tab will be applied to new price."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:573
+msgid "Sync quantity"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:575
+msgid ""
+"Sync quantity of WooCommerce products with Taobao if products managed stock"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:232
+msgid "Tags"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:547
+msgid "Taobao order note"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:39
+msgid "Taobao product info"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:591
+msgid "Taobao Product URL/ID:"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:42
+msgid ""
+"The plugin offers sufficient simple and advanced tools to help filter "
+"various available attributes of simple and variable products such as ID, "
+"Title, Content, Excerpt, Slugs, SKU, Post date, range of regular price and "
+"sale price, Sale date, range of stock quantity, Product type, Categories.... "
+"Users can quickly search for wanted products fields and work with the "
+"product fields in bulk."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:120
+msgid ""
+"The product this image belongs to was deleted so this image is now removed "
+"from list"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:447
+msgid ""
+"This helps save storage by using original Taobao image URLs but you will not "
+"be able to edit them"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:216
+msgid "This is exchange rate to convert from CNY to your store currency."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:473
+msgid ""
+"This is exchange rate to convert product price from CNY to your store "
+"currency when adding products to import list."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:614
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1501
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:728
+msgid "This product has already been imported"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:417
+msgid "This product is being overridden by:"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:375
+msgid "This product is deleted from your WooCommerce store."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:731
+msgid "This product is overriding an other product."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:338
+msgid "This product is trashed from your WooCommerce store."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:87
+msgid "This product will override: "
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:368
+msgid "This setting determines which shop pages products will be listed on."
+msgstr ""
+
+#. %1$s App name, %2$s scope.
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/templates/woocommerce/auth/form-grant-access.php:36
+#, php-format
+msgid "This will give \"%1$s\" %2$s access which will allow it to:"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:146
+msgid "to change it"
+msgstr ""
+
+#. Description of the plugin
+msgid "Transfer data from Taobao products to WooCommerce effortlessly."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:361
+msgid "Translate"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:47
+msgid "Translate both title & attributes"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:118
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:342
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:379
+msgid "Trash"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:94
+msgid "Try our brand new"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/api.php:707
+msgid "Unauthorized"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings-helper.php:250
+msgid "Unlock this feature"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:465
+msgid "Update rate automatically"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:387
+msgid ""
+"Upload images in product description if any. If disabled, images in "
+"description will use the original Taobao cdn links"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:445
+msgid "Use external links for images"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:352
+msgid "Use global attributes"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:64
+msgid "Used for"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:322
+msgid "Values"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/import-list.php:1225
+msgid "Variation"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:126
+msgid "Variations"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:613
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/setup-wizard.php:157
+msgid "Video guide"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:496
+msgid "Video tab priority"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/draft-product.php:27
+msgid "View"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:55
+msgid "View on Imported page"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:326
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:54
+msgid "View on Taobao"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/inc/utils.php:198
+msgid "View product"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:193
+msgid "View product on Imported"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/product.php:189
+msgid "View product on Taobao"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:53
+msgid "View this product on Taobao.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:348
+msgid ""
+"When importing product in Import list, automatically generate unique sku by "
+"adding increment if sku exists."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:399
+msgid ""
+"When importing products, instead of letting their images import in the "
+"background, main product image will be uploaded immediately while gallery "
+"and variation images(if any) will be added to Failed images page so that you "
+"can go there to import them manually."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:518
+msgid ""
+"When splitting a product by a specific attribute, remove that attribute of "
+"split products"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:77
+msgid ""
+"When this plugin is active, \"Use external links for images\" option will be "
+"available in the ALD plugin settings/Product which allows to use original "
+"AliExpress product image URLs for featured image, gallery images and "
+"variation image of imported Taobao products."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/recommend.php:76
+msgid "will help you solve the problem by using external image URLs."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/imported.php:497
+msgid "WooCommerce Price"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:143
+msgid "You are using Permalink structure as Plain. Please go to"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:498
+msgid "You can adjust this value to change order of video tab"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/views/html-import-list-item.php:386
+msgid "You can edit product attributes on Attributes tab"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:162
+msgid "you can not import products unless below issue is resolved"
+msgid_plural "you can not import products unless below issues are resolved"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/error-images.php:340
+msgid "You don't have any failed images."
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/settings.php:189
+msgid ""
+"You need to enable this to let ChinaDS - Taobao Dropshipping for WooCommerce "
+"Extension connect to your store"
+msgstr ""
+
+#: D:/git/free-version/chinads-taobao-dropshipping-for-woocommerce/chinads-taobao-dropshipping-for-woocommerce/admin/admin.php:152
+msgid "Your site is not using HTTPS. For more details, please read"
+msgstr ""

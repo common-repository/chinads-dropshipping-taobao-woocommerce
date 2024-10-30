@@ -1,0 +1,31 @@
+/**2.0.5 - 2024.05.20**/
+– Updated: Update support class
+
+/**2.0.4 - 2024.04.13**/
+– Updated: Compatible with WP 6.5 and  WC 8.7
+– Updated: Update support class
+
+/**2.0.3 - 2024.02.05**/
+- Fix: Import product from taobao.com
+- Updated: Update support file
+
+/**2.0.2 - 2023.09.27**/
+- Updated: Premium version url
+
+/**2.0.1 - 2023.09.26**/
+- Added: Premium version url
+
+/**2.0.0 - 2023.09.13**/
+– Updated: Move Taobao product to new table
+
+/**1.0.3 - 2023.04.29**/
+- Fix: Load textdomain
+
+/**1.0.2 - 2022.12.08**/
+- Fix: Enqueue scripts
+
+/**1.0.1 - 2022.08.29**/
+- Update: Add register account video guide
+
+/**1.0.0 - 2022.06.06**/
+~ The first released.
